@@ -1,4 +1,4 @@
-package org.aosm.aosm1;
+package org.aosm.aosm;
 
 import android.app.Activity;
 import android.os.Bundle;
